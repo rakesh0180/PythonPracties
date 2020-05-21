@@ -1,0 +1,13 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    "AREPL.pythonOptions": [
+
+        "-u"
+    ],
+    "AREPL.pythonPath": "C:\\Program Files\\Python37",
+    "python.autoComplete.addBrackets": true,
+    "python.pythonPath": "C:\\Program Files\\Python37\\python.exe",
+    "java.saveActions.organizeImports": true
+}
